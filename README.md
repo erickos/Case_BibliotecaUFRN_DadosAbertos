@@ -15,6 +15,15 @@ Os dados disponibilizados no Portal podem ser acessados por toda a população, 
 
 Para a realização dessa análise foram necessários os datasets de Acervo da Biblioteca, Exemplares disponíveis e os datasets referentes aos empréstimos entre os períodos de 2014.1 à 2017.2 (exceto 2016.1 devido à indisponibilidade do mesmo).
 
+## Tecnologias e bibliotecas utilizadas
+
+<img src="https://www.python.org/static/img/python-logo.png">
+<img src="https://matplotlib.org/_static/logo2.png">
+<img src="http://www.numpy.org/_static/numpy_logo.png">
+<img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/03/pandas.jpg">
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png">
+<img src="https://jupyter.org/assets/nav_logo.svg">
+
 ## Execução
 
 Para executar o projeto, deve-se baixar ou clonar o projeto em sua máquina. Com o arquivo .ipynb é possível executá-lo no software Jupyter ou executá-lo de forma online no Google COlabority &copy;. Todos os dados utilizados estão sendo diretamente obtidos de forma online atráves de links para o portal de Dados Abertos, sendo assim, ao executar localmente o projeto depende de sua conexão com a internet.
