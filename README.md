@@ -20,7 +20,7 @@ Para a realização dessa análise foram necessários os datasets de Acervo da B
 <img src="https://www.python.org/static/img/python-logo.png">
 <img src="https://matplotlib.org/_static/logo2.png">
 <img src="http://www.numpy.org/_static/numpy_logo.png">
-<img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/03/pandas.jpg">
+<img src="https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/03/pandas.jpg" width="320" height="205">
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png">
 <img src="https://jupyter.org/assets/nav_logo.svg">
 
