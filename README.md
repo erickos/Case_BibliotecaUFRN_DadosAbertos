@@ -15,6 +15,10 @@ Os dados disponibilizados no Portal podem ser acessados por toda a população, 
 
 Para a realização dessa análise foram necessários os datasets de Acervo da Biblioteca, Exemplares disponíveis e os datasets referentes aos empréstimos entre os períodos de 2014.1 à 2017.2 (exceto 2016.1 devido à indisponibilidade do mesmo).
 
+## Execução
+
+Para executar o projeto, deve-se baixar ou clonar o projeto em sua máquina. Com o arquivo .ipynb é possível executá-lo no software Jupyter ou executá-lo de forma online no Google COlabority &copy;. Todos os dados utilizados estão sendo diretamente obtidos de forma online atráves de links para o portal de Dados Abertos, sendo assim, ao executar localmente o projeto depende de sua conexão com a internet.
+
 ## Autoria 
 
 Este trabalho foi desenvolvido por Erick de Oliveira Silva (<erickoliveira.eos@gmail.com>) e Airton Correia de Oliveira Neto (<netoairton@yahoo.com.br>) ambos estudantes da graduação em Tecnologia da Informação pelo Instituto Metrópole Digitai (IMD) na Universidade Federal do Rio Grande do Norte (UFRN).
